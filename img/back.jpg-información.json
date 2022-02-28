@@ -1,0 +1,40 @@
+{
+  "description": "Beautiful defocused lights on a pink background. Looks like mandala. High resolution - 50 megapixels.",
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2019-05-13T22:36:27.560Z",
+  "last_modified_by_me": "2019-05-13T22:36:27.560Z",
+  "content_last_modified": "2019-05-13T22:36:27.560Z",
+  "created": "2019-05-13T22:36:27.792Z",
+  "permissions": [
+    {
+      "id": "13247536631989939060",
+      "name": "Roberto Betancourt Hernández",
+      "type": "user",
+      "role": "writer",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a-/AOh14Gi4DRSvzkMH4PvfwFtnbGSjRcADMBkg2W9IHQrXYg=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1jtgh1mBvLxZxn-IHNaEuQADt_Cqo-UFQ/permissions/13247536631989939060",
+      "email_address": "a01551525@itesm.mx",
+      "domain": "itesm.mx",
+      "etag": "\"8oBbIzT68agCca34loBmOb2jksM\"",
+      "deleted": false,
+      "pending_owner": false
+    },
+    {
+      "id": "02953798934684398654",
+      "name": "Fernando Rodríguez Robles",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/default-user=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/1jtgh1mBvLxZxn-IHNaEuQADt_Cqo-UFQ/permissions/02953798934684398654",
+      "email_address": "a01328720@tec.mx",
+      "domain": "tec.mx",
+      "etag": "\"AW6ArrBOeFm3upvYxh4WL6b4Kio\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ]
+}

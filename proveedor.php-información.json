@@ -1,0 +1,39 @@
+{
+  "starred": false,
+  "viewers_can_download": true,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2019-05-13T22:36:20.078Z",
+  "last_modified_by_me": "2019-05-13T22:36:20.078Z",
+  "content_last_modified": "2019-05-13T22:36:20.078Z",
+  "created": "2019-05-13T22:36:20.843Z",
+  "permissions": [
+    {
+      "id": "13247536631989939060",
+      "name": "Roberto Betancourt Hernández",
+      "type": "user",
+      "role": "writer",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a-/AOh14Gi4DRSvzkMH4PvfwFtnbGSjRcADMBkg2W9IHQrXYg=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/184PrF3jGtSKGuCup6MqCm1pAsHM0c9lG/permissions/13247536631989939060",
+      "email_address": "a01551525@itesm.mx",
+      "domain": "itesm.mx",
+      "etag": "\"NMxd_TFFS7sWTNR2fe-Lws5y8xs\"",
+      "deleted": false,
+      "pending_owner": false
+    },
+    {
+      "id": "02953798934684398654",
+      "name": "Fernando Rodríguez Robles",
+      "type": "user",
+      "role": "owner",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/default-user=s64",
+      "self_link": "https://www.googleapis.com/drive/v2/files/184PrF3jGtSKGuCup6MqCm1pAsHM0c9lG/permissions/02953798934684398654",
+      "email_address": "a01328720@tec.mx",
+      "domain": "tec.mx",
+      "etag": "\"kUdkuCig4_Sv1rgtAQ26W1LbZa4\"",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ]
+}
